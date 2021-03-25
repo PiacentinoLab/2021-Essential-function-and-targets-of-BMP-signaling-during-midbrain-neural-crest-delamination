@@ -1,0 +1,4 @@
+ ,Label,Area,Mean,IntDen,RawIntDen
+1,A-slice:background:c:1/3 z:4/6 - 20210121_BRE;H2Bd2EGFP_Pax7;RFP;d2EGFP_Emb1_3s,59.980,10.579,634.528,12314
+2,A-slice:background:c:2/3 z:4/6 - 20210121_BRE;H2Bd2EGFP_Pax7;RFP;d2EGFP_Emb1_3s,59.980,6.789,407.182,7902
+3,A-slice:background:c:3/3 z:4/6 - 20210121_BRE;H2Bd2EGFP_Pax7;RFP;d2EGFP_Emb1_3s,59.980,6.850,410.841,7973
