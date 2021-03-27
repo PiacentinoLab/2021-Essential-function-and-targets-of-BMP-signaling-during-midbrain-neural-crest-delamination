@@ -1,0 +1,325 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4437524 Released 2021-01-01
+Analyzed List:	Client Text Box Input (Gallus gallus)
+Reference List:	Gallus gallus (all genes in database)
+Test Type:	FISHER
+Correction:	NONE
+GO biological process complete	Gallus gallus - REFLIST (17887)	Client Text Box Input (38)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (raw P-value)
+positive regulation of termination of RNA polymerase II transcription, poly(A)-coupled (GO:2000806)	1	1	.00	+	 > 100	4.24E-03
+commissural neuron differentiation in spinal cord (GO:0021528)	1	1	.00	+	 > 100	4.24E-03
+ovarian follicle rupture (GO:0001543)	1	1	.00	+	 > 100	4.24E-03
+negative regulation of corticotropin secretion (GO:0051460)	1	1	.00	+	 > 100	4.24E-03
+histone H4-K20 demethylation (GO:0035574)	1	1	.00	+	 > 100	4.24E-03
+positive regulation of termination of RNA polymerase II transcription (GO:1904595)	1	1	.00	+	 > 100	4.24E-03
+negative regulation of corticotropin-releasing hormone receptor activity (GO:1900011)	1	1	.00	+	 > 100	4.24E-03
+regulation of corticotropin-releasing hormone receptor activity (GO:1900010)	1	1	.00	+	 > 100	4.24E-03
+negative regulation of lipoprotein oxidation (GO:0034443)	1	1	.00	+	 > 100	4.24E-03
+regulation of lipoprotein oxidation (GO:0034442)	1	1	.00	+	 > 100	4.24E-03
+negative regulation of lipoprotein lipid oxidation (GO:0060588)	1	1	.00	+	 > 100	4.24E-03
+regulation of lipoprotein lipid oxidation (GO:0060587)	1	1	.00	+	 > 100	4.24E-03
+positive regulation of DNA-templated transcription, termination (GO:0060566)	1	1	.00	+	 > 100	4.24E-03
+prevention of polyspermy (GO:0060468)	2	1	.00	+	 > 100	6.35E-03
+negative regulation of fertilization (GO:0060467)	2	1	.00	+	 > 100	6.35E-03
+regulation of termination of RNA polymerase II transcription, poly(A)-coupled (GO:2000804)	2	1	.00	+	 > 100	6.35E-03
+cell cycle switching (GO:0060184)	2	1	.00	+	 > 100	6.35E-03
+histone H3-K27 demethylation (GO:0071557)	2	1	.00	+	 > 100	6.35E-03
+negative regulation of binding of sperm to zona pellucida (GO:2000360)	2	1	.00	+	 > 100	6.35E-03
+regulation of binding of sperm to zona pellucida (GO:2000359)	2	1	.00	+	 > 100	6.35E-03
+germline cell cycle switching, mitotic to meiotic cell cycle (GO:0051729)	2	1	.00	+	 > 100	6.35E-03
+cell cycle switching, mitotic to meiotic cell cycle (GO:0051728)	2	1	.00	+	 > 100	6.35E-03
+negative regulation of cortisol biosynthetic process (GO:2000065)	2	1	.00	+	 > 100	6.35E-03
+negative regulation of aldosterone biosynthetic process (GO:0032348)	2	1	.00	+	 > 100	6.35E-03
+negative regulation of aldosterone metabolic process (GO:0032345)	2	1	.00	+	 > 100	6.35E-03
+regulation of DNA-templated transcription, termination (GO:0031554)	2	1	.00	+	 > 100	6.35E-03
+allantois development (GO:1905069)	2	1	.00	+	 > 100	6.35E-03
+regulation of termination of RNA polymerase II transcription (GO:1904594)	2	1	.00	+	 > 100	6.35E-03
+extraembryonic membrane development (GO:1903867)	2	1	.00	+	 > 100	6.35E-03
+anterior head development (GO:0097065)	2	1	.00	+	 > 100	6.35E-03
+neural fold elevation formation (GO:0021502)	3	1	.01	+	 > 100	8.45E-03
+neuroblast differentiation (GO:0014016)	3	1	.01	+	 > 100	8.45E-03
+negative regulation of glucocorticoid biosynthetic process (GO:0031947)	3	1	.01	+	 > 100	8.45E-03
+negative regulation of glucocorticoid metabolic process (GO:0031944)	3	1	.01	+	 > 100	8.45E-03
+cellular response to potassium ion (GO:0035865)	3	1	.01	+	 > 100	8.45E-03
+response to potassium ion (GO:0035864)	3	1	.01	+	 > 100	8.45E-03
+negative regulation of inner ear receptor cell differentiation (GO:2000981)	4	1	.01	+	 > 100	1.06E-02
+negative regulation of mechanoreceptor differentiation (GO:0045632)	4	1	.01	+	 > 100	1.06E-02
+negative regulation of inner ear auditory receptor cell differentiation (GO:0045608)	4	1	.01	+	 > 100	1.06E-02
+specification of loop of Henle identity (GO:0072086)	4	1	.01	+	 > 100	1.06E-02
+comma-shaped body morphogenesis (GO:0072049)	4	1	.01	+	 > 100	1.06E-02
+negative regulation of steroid hormone biosynthetic process (GO:0090032)	4	1	.01	+	 > 100	1.06E-02
+negative regulation of lipoprotein metabolic process (GO:0050748)	4	1	.01	+	 > 100	1.06E-02
+negative regulation of insulin-like growth factor receptor signaling pathway (GO:0043569)	4	1	.01	+	 > 100	1.06E-02
+egg activation (GO:0007343)	5	1	.01	+	94.14	1.27E-02
+specification of nephron tubule identity (GO:0072081)	5	1	.01	+	94.14	1.27E-02
+proximal/distal pattern formation involved in nephron development (GO:0072047)	5	1	.01	+	94.14	1.27E-02
+positive regulation by host of viral genome replication (GO:0044829)	5	1	.01	+	94.14	1.27E-02
+termination of RNA polymerase II transcription (GO:0006369)	5	1	.01	+	94.14	1.27E-02
+regulation of cortisol biosynthetic process (GO:2000064)	5	1	.01	+	94.14	1.27E-02
+regulation of aldosterone biosynthetic process (GO:0032347)	5	1	.01	+	94.14	1.27E-02
+regulation of aldosterone metabolic process (GO:0032344)	5	1	.01	+	94.14	1.27E-02
+cell communication by electrical coupling (GO:0010644)	5	1	.01	+	94.14	1.27E-02
+paramesonephric duct development (GO:0061205)	5	1	.01	+	94.14	1.27E-02
+osteoclast fusion (GO:0072675)	5	1	.01	+	94.14	1.27E-02
+positive regulation of non-motile cilium assembly (GO:1902857)	5	1	.01	+	94.14	1.27E-02
+regulation of inner ear receptor cell differentiation (GO:2000980)	6	1	.01	+	78.45	1.47E-02
+regulation of mechanoreceptor differentiation (GO:0045631)	6	1	.01	+	78.45	1.47E-02
+regulation of inner ear auditory receptor cell differentiation (GO:0045607)	6	1	.01	+	78.45	1.47E-02
+metanephric nephron tubule morphogenesis (GO:0072282)	6	1	.01	+	78.45	1.47E-02
+neural fold formation (GO:0001842)	6	1	.01	+	78.45	1.47E-02
+S-shaped body morphogenesis (GO:0072050)	6	1	.01	+	78.45	1.47E-02
+renal system pattern specification (GO:0072048)	6	1	.01	+	78.45	1.47E-02
+ovulation from ovarian follicle (GO:0001542)	6	1	.01	+	78.45	1.47E-02
+regulation of glucocorticoid biosynthetic process (GO:0031946)	6	1	.01	+	78.45	1.47E-02
+negative regulation of astrocyte differentiation (GO:0048712)	6	1	.01	+	78.45	1.47E-02
+regulation of corticotropin secretion (GO:0051459)	6	1	.01	+	78.45	1.47E-02
+behavioral response to ethanol (GO:0048149)	6	1	.01	+	78.45	1.47E-02
+positive regulation of execution phase of apoptosis (GO:1900119)	6	1	.01	+	78.45	1.47E-02
+anterior commissure morphogenesis (GO:0021960)	6	1	.01	+	78.45	1.47E-02
+multinuclear osteoclast differentiation (GO:0072674)	6	1	.01	+	78.45	1.47E-02
+pattern specification involved in kidney development (GO:0061004)	6	1	.01	+	78.45	1.47E-02
+regulation of fertilization (GO:0080154)	6	1	.01	+	78.45	1.47E-02
+regulation of non-motile cilium assembly (GO:1902855)	6	1	.01	+	78.45	1.47E-02
+loop of Henle development (GO:0072070)	7	1	.01	+	67.24	1.68E-02
+regulation of glucocorticoid metabolic process (GO:0031943)	7	1	.01	+	67.24	1.68E-02
+negative regulation of hormone biosynthetic process (GO:0032353)	7	1	.01	+	67.24	1.68E-02
+negative regulation of hormone metabolic process (GO:0032351)	7	1	.01	+	67.24	1.68E-02
+centriole-centriole cohesion (GO:0010457)	7	1	.01	+	67.24	1.68E-02
+negative regulation of epidermis development (GO:0045683)	8	1	.02	+	58.84	1.89E-02
+negative regulation of epidermal cell differentiation (GO:0045605)	8	1	.02	+	58.84	1.89E-02
+mesonephric duct development (GO:0072177)	8	1	.02	+	58.84	1.89E-02
+metanephric tubule morphogenesis (GO:0072173)	8	1	.02	+	58.84	1.89E-02
+positive regulation by host of viral process (GO:0044794)	8	1	.02	+	58.84	1.89E-02
+negative regulation of multi-organism process (GO:0043901)	8	1	.02	+	58.84	1.89E-02
+negative regulation of oligodendrocyte differentiation (GO:0048715)	8	1	.02	+	58.84	1.89E-02
+ovulation (GO:0030728)	8	1	.02	+	58.84	1.89E-02
+positive regulation of chromatin binding (GO:0035563)	8	1	.02	+	58.84	1.89E-02
+pericardium morphogenesis (GO:0003344)	8	1	.02	+	58.84	1.89E-02
+negative regulation of alcohol biosynthetic process (GO:1902931)	8	1	.02	+	58.84	1.89E-02
+nitric oxide biosynthetic process (GO:0006809)	9	1	.02	+	52.30	2.10E-02
+histone mRNA catabolic process (GO:0071044)	9	1	.02	+	52.30	2.10E-02
+regulation of lipoprotein metabolic process (GO:0050746)	9	1	.02	+	52.30	2.10E-02
+male genitalia development (GO:0030539)	18	2	.04	+	52.30	8.12E-04
+glial cell fate commitment (GO:0021781)	10	1	.02	+	47.07	2.31E-02
+tetrahydrobiopterin metabolic process (GO:0046146)	10	1	.02	+	47.07	2.31E-02
+tetrahydrobiopterin biosynthetic process (GO:0006729)	10	1	.02	+	47.07	2.31E-02
+negative regulation of focal adhesion assembly (GO:0051895)	10	1	.02	+	47.07	2.31E-02
+cellular response to estradiol stimulus (GO:0071392)	20	2	.04	+	47.07	9.84E-04
+DNA-templated transcription, termination (GO:0006353)	10	1	.02	+	47.07	2.31E-02
+nuclear mRNA surveillance (GO:0071028)	10	1	.02	+	47.07	2.31E-02
+nuclear RNA surveillance (GO:0071027)	10	1	.02	+	47.07	2.31E-02
+histone H3-K36 demethylation (GO:0070544)	10	1	.02	+	47.07	2.31E-02
+regulation of steroid hormone biosynthetic process (GO:0090030)	10	1	.02	+	47.07	2.31E-02
+positive regulation of dendrite development (GO:1900006)	10	1	.02	+	47.07	2.31E-02
+negative regulation of cell-substrate junction organization (GO:0150118)	10	1	.02	+	47.07	2.31E-02
+regulation of ketone biosynthetic process (GO:0010566)	10	1	.02	+	47.07	2.31E-02
+nitric oxide metabolic process (GO:0046209)	10	1	.02	+	47.07	2.31E-02
+pharyngeal system development (GO:0060037)	21	2	.04	+	44.83	1.08E-03
+metanephric nephron tubule development (GO:0072234)	11	1	.02	+	42.79	2.52E-02
+positive regulation of protein processing (GO:0010954)	11	1	.02	+	42.79	2.52E-02
+type B pancreatic cell development (GO:0003323)	11	1	.02	+	42.79	2.52E-02
+morphogenesis of an epithelial fold (GO:0060571)	11	1	.02	+	42.79	2.52E-02
+reactive nitrogen species metabolic process (GO:2001057)	12	1	.03	+	39.23	2.72E-02
+modulation by host of viral genome replication (GO:0044827)	12	1	.03	+	39.23	2.72E-02
+histone H3-K9 demethylation (GO:0033169)	12	1	.03	+	39.23	2.72E-02
+regulation of insulin-like growth factor receptor signaling pathway (GO:0043567)	12	1	.03	+	39.23	2.72E-02
+rRNA catabolic process (GO:0016075)	12	1	.03	+	39.23	2.72E-02
+positive regulation of protein maturation (GO:1903319)	12	1	.03	+	39.23	2.72E-02
+segment specification (GO:0007379)	13	1	.03	+	36.21	2.93E-02
+negative regulation of stem cell differentiation (GO:2000737)	13	1	.03	+	36.21	2.93E-02
+metanephric tubule development (GO:0072170)	13	1	.03	+	36.21	2.93E-02
+RNA surveillance (GO:0071025)	13	1	.03	+	36.21	2.93E-02
+regulation of execution phase of apoptosis (GO:1900117)	13	1	.03	+	36.21	2.93E-02
+pteridine-containing compound biosynthetic process (GO:0042559)	13	1	.03	+	36.21	2.93E-02
+reactive oxygen species biosynthetic process (GO:1903409)	13	1	.03	+	36.21	2.93E-02
+central nervous system myelination (GO:0022010)	14	1	.03	+	33.62	3.13E-02
+metanephric nephron epithelium development (GO:0072243)	14	1	.03	+	33.62	3.13E-02
+regulation of astrocyte differentiation (GO:0048710)	14	1	.03	+	33.62	3.13E-02
+axon ensheathment in central nervous system (GO:0032291)	14	1	.03	+	33.62	3.13E-02
+regulation of chromatin binding (GO:0035561)	14	1	.03	+	33.62	3.13E-02
+histone mRNA metabolic process (GO:0008334)	14	1	.03	+	33.62	3.13E-02
+cellular response to estrogen stimulus (GO:0071391)	15	1	.03	+	31.38	3.34E-02
+positive regulation of meiotic cell cycle (GO:0051446)	15	1	.03	+	31.38	3.34E-02
+endocardial cushion formation (GO:0003272)	15	1	.03	+	31.38	3.34E-02
+negative regulation of glial cell differentiation (GO:0045686)	16	1	.03	+	29.42	3.54E-02
+nephron tubule formation (GO:0072079)	16	1	.03	+	29.42	3.54E-02
+pericardium development (GO:0060039)	16	1	.03	+	29.42	3.54E-02
+negative regulation of steroid biosynthetic process (GO:0010894)	16	1	.03	+	29.42	3.54E-02
+ncRNA catabolic process (GO:0034661)	16	1	.03	+	29.42	3.54E-02
+negative regulation of steroid metabolic process (GO:0045939)	16	1	.03	+	29.42	3.54E-02
+negative regulation of cell junction assembly (GO:1901889)	17	1	.04	+	27.69	3.75E-02
+glandular epithelial cell development (GO:0002068)	17	1	.04	+	27.69	3.75E-02
+negative regulation of gliogenesis (GO:0014014)	17	1	.04	+	27.69	3.75E-02
+genitalia development (GO:0048806)	34	2	.07	+	27.69	2.63E-03
+regulation of hormone biosynthetic process (GO:0046885)	17	1	.04	+	27.69	3.75E-02
+type B pancreatic cell differentiation (GO:0003309)	17	1	.04	+	27.69	3.75E-02
+response to estradiol (GO:0032355)	35	2	.07	+	26.90	2.78E-03
+positive regulation of cilium assembly (GO:0045724)	18	1	.04	+	26.15	3.95E-02
+metanephric nephron morphogenesis (GO:0072273)	18	1	.04	+	26.15	3.95E-02
+dorsal spinal cord development (GO:0021516)	18	1	.04	+	26.15	3.95E-02
+metanephric epithelium development (GO:0072207)	18	1	.04	+	26.15	3.95E-02
+nephric duct development (GO:0072176)	18	1	.04	+	26.15	3.95E-02
+early endosome to late endosome transport (GO:0045022)	18	1	.04	+	26.15	3.95E-02
+vesicle-mediated transport between endosomal compartments (GO:0098927)	18	1	.04	+	26.15	3.95E-02
+enteroendocrine cell differentiation (GO:0035883)	18	1	.04	+	26.15	3.95E-02
+neuronal stem cell population maintenance (GO:0097150)	18	1	.04	+	26.15	3.95E-02
+proteasomal ubiquitin-independent protein catabolic process (GO:0010499)	18	1	.04	+	26.15	3.95E-02
+central nervous system projection neuron axonogenesis (GO:0021952)	19	1	.04	+	24.77	4.16E-02
+syncytium formation (GO:0006949)	20	1	.04	+	23.54	4.36E-02
+modulation by host of viral process (GO:0044788)	20	1	.04	+	23.54	4.36E-02
+cell-cell fusion (GO:0140253)	20	1	.04	+	23.54	4.36E-02
+syncytium formation by plasma membrane fusion (GO:0000768)	20	1	.04	+	23.54	4.36E-02
+negative regulation of stress fiber assembly (GO:0051497)	20	1	.04	+	23.54	4.36E-02
+negative regulation of Rho protein signal transduction (GO:0035024)	20	1	.04	+	23.54	4.36E-02
+diol biosynthetic process (GO:0034312)	20	1	.04	+	23.54	4.36E-02
+negative regulation of cell-matrix adhesion (GO:0001953)	21	1	.04	+	22.41	4.56E-02
+negative regulation of actin filament bundle assembly (GO:0032232)	21	1	.04	+	22.41	4.56E-02
+heart trabecula morphogenesis (GO:0061384)	21	1	.04	+	22.41	4.56E-02
+protein kinase B signaling (GO:0043491)	22	1	.05	+	21.40	4.77E-02
+regulation of microtubule depolymerization (GO:0031114)	22	1	.05	+	21.40	4.77E-02
+ovulation cycle process (GO:0022602)	22	1	.05	+	21.40	4.77E-02
+positive regulation of receptor signaling pathway via JAK-STAT (GO:0046427)	22	1	.05	+	21.40	4.77E-02
+adipose tissue development (GO:0060612)	22	1	.05	+	21.40	4.77E-02
+regulation of neuroblast proliferation (GO:1902692)	23	1	.05	+	20.47	4.97E-02
+response to ethanol (GO:0045471)	23	1	.05	+	20.47	4.97E-02
+centriole replication (GO:0007099)	23	1	.05	+	20.47	4.97E-02
+regulation of multi-organism process (GO:0043900)	23	1	.05	+	20.47	4.97E-02
+regulation of oligodendrocyte differentiation (GO:0048713)	23	1	.05	+	20.47	4.97E-02
+regulation of hormone metabolic process (GO:0032350)	23	1	.05	+	20.47	4.97E-02
+positive regulation of protein dephosphorylation (GO:0035307)	23	1	.05	+	20.47	4.97E-02
+regulation of alcohol biosynthetic process (GO:1902930)	23	1	.05	+	20.47	4.97E-02
+anterograde axonal transport (GO:0008089)	23	1	.05	+	20.47	4.97E-02
+nephron tubule morphogenesis (GO:0072078)	50	2	.11	+	18.83	5.43E-03
+renal tubule morphogenesis (GO:0061333)	52	2	.11	+	18.10	5.84E-03
+negative regulation of lipid metabolic process (GO:0045833)	52	2	.11	+	18.10	5.84E-03
+nephron epithelium morphogenesis (GO:0072088)	54	2	.11	+	17.43	6.27E-03
+nephron morphogenesis (GO:0072028)	54	2	.11	+	17.43	6.27E-03
+metanephros development (GO:0001656)	59	2	.13	+	15.96	7.40E-03
+nephron tubule development (GO:0072080)	60	2	.13	+	15.69	7.64E-03
+telencephalon development (GO:0021537)	63	2	.13	+	14.94	8.37E-03
+renal tubule development (GO:0061326)	63	2	.13	+	14.94	8.37E-03
+positive regulation of neuron projection development (GO:0010976)	65	2	.14	+	14.48	8.87E-03
+kidney morphogenesis (GO:0060993)	67	2	.14	+	14.05	9.39E-03
+nephron epithelium development (GO:0072009)	76	2	.16	+	12.39	1.19E-02
+reactive oxygen species metabolic process (GO:0072593)	76	2	.16	+	12.39	1.19E-02
+negative regulation of neurogenesis (GO:0050768)	80	2	.17	+	11.77	1.31E-02
+female gamete generation (GO:0007292)	81	2	.17	+	11.62	1.34E-02
+negative regulation of nervous system development (GO:0051961)	82	2	.17	+	11.48	1.37E-02
+response to reactive oxygen species (GO:0000302)	82	2	.17	+	11.48	1.37E-02
+positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	86	2	.18	+	10.95	1.49E-02
+circadian rhythm (GO:0007623)	90	2	.19	+	10.46	1.62E-02
+nephron development (GO:0072006)	92	2	.20	+	10.23	1.69E-02
+regulation of protein-containing complex disassembly (GO:0043244)	93	2	.20	+	10.12	1.73E-02
+embryonic epithelial tube formation (GO:0001838)	94	2	.20	+	10.02	1.76E-02
+kidney epithelium development (GO:0072073)	96	2	.20	+	9.81	1.83E-02
+regulation of signaling receptor activity (GO:0010469)	96	2	.20	+	9.81	1.83E-02
+epithelial tube formation (GO:0072175)	103	2	.22	+	9.14	2.08E-02
+response to tumor necrosis factor (GO:0034612)	103	2	.22	+	9.14	2.08E-02
+negative regulation of cell development (GO:0010721)	105	2	.22	+	8.97	2.16E-02
+male sex differentiation (GO:0046661)	105	2	.22	+	8.97	2.16E-02
+regulation of reproductive process (GO:2000241)	107	2	.23	+	8.80	2.23E-02
+reproductive structure development (GO:0048608)	161	3	.34	+	8.77	5.02E-03
+reproductive system development (GO:0061458)	163	3	.35	+	8.66	5.19E-03
+morphogenesis of embryonic epithelium (GO:0016331)	109	2	.23	+	8.64	2.31E-02
+cardiac chamber development (GO:0003205)	111	2	.24	+	8.48	2.39E-02
+sex differentiation (GO:0007548)	167	3	.35	+	8.46	5.54E-03
+tube formation (GO:0035148)	116	2	.25	+	8.12	2.59E-02
+neural tube development (GO:0021915)	116	2	.25	+	8.12	2.59E-02
+positive regulation of cell projection organization (GO:0031346)	193	3	.41	+	7.32	8.20E-03
+cytoskeleton-dependent intracellular transport (GO:0030705)	139	2	.30	+	6.77	3.59E-02
+epithelial tube morphogenesis (GO:0060562)	213	3	.45	+	6.63	1.07E-02
+rhythmic process (GO:0048511)	144	2	.31	+	6.54	3.83E-02
+cellular response to lipid (GO:0071396)	216	3	.46	+	6.54	1.11E-02
+regulation of neurogenesis (GO:0050767)	224	3	.48	+	6.30	1.22E-02
+connective tissue development (GO:0061448)	150	2	.32	+	6.28	4.12E-02
+negative regulation of cell migration (GO:0030336)	156	2	.33	+	6.03	4.41E-02
+ear development (GO:0043583)	162	2	.34	+	5.81	4.72E-02
+forebrain development (GO:0030900)	162	2	.34	+	5.81	4.72E-02
+negative regulation of cell motility (GO:2000146)	166	2	.35	+	5.67	4.93E-02
+pattern specification process (GO:0007389)	335	4	.71	+	5.62	5.59E-03
+regulation of neuron projection development (GO:0010975)	257	3	.55	+	5.49	1.75E-02
+chordate embryonic development (GO:0043009)	261	3	.55	+	5.41	1.82E-02
+axonogenesis (GO:0007409)	263	3	.56	+	5.37	1.86E-02
+embryo development ending in birth or egg hatching (GO:0009792)	279	3	.59	+	5.06	2.17E-02
+regulation of plasma membrane bounded cell projection organization (GO:0120035)	373	4	.79	+	5.05	8.09E-03
+axon development (GO:0061564)	282	3	.60	+	5.01	2.23E-02
+regulation of nervous system development (GO:0051960)	284	3	.60	+	4.97	2.27E-02
+regulation of cell projection organization (GO:0031344)	380	4	.81	+	4.95	8.62E-03
+developmental process involved in reproduction (GO:0003006)	388	4	.82	+	4.85	9.25E-03
+morphogenesis of an epithelium (GO:0002009)	299	3	.64	+	4.72	2.59E-02
+cell morphogenesis involved in neuron differentiation (GO:0048667)	318	3	.68	+	4.44	3.03E-02
+regulation of cell development (GO:0060284)	326	3	.69	+	4.33	3.22E-02
+response to lipid (GO:0033993)	332	3	.71	+	4.25	3.37E-02
+neuron projection morphogenesis (GO:0048812)	342	3	.73	+	4.13	3.63E-02
+plasma membrane bounded cell projection morphogenesis (GO:0120039)	345	3	.73	+	4.09	3.71E-02
+cell projection morphogenesis (GO:0048858)	348	3	.74	+	4.06	3.79E-02
+brain development (GO:0007420)	351	3	.75	+	4.02	3.87E-02
+neuron projection development (GO:0031175)	472	4	1.00	+	3.99	1.78E-02
+cell part morphogenesis (GO:0032990)	363	3	.77	+	3.89	4.21E-02
+reproductive process (GO:0022414)	611	5	1.30	+	3.85	9.27E-03
+reproduction (GO:0000003)	614	5	1.30	+	3.83	9.45E-03
+heart development (GO:0007507)	370	3	.79	+	3.82	4.41E-02
+negative regulation of cell population proliferation (GO:0008285)	375	3	.80	+	3.77	4.56E-02
+tissue morphogenesis (GO:0048729)	378	3	.80	+	3.74	4.65E-02
+head development (GO:0060322)	382	3	.81	+	3.70	4.77E-02
+sexual reproduction (GO:0019953)	385	3	.82	+	3.67	4.86E-02
+positive regulation of transcription by RNA polymerase II (GO:0045944)	837	6	1.78	+	3.37	8.09E-03
+neuron development (GO:0048666)	577	4	1.23	+	3.26	3.38E-02
+generation of neurons (GO:0048699)	874	6	1.86	+	3.23	9.90E-03
+microtubule-based process (GO:0007017)	612	4	1.30	+	3.08	4.05E-02
+plasma membrane bounded cell projection organization (GO:0120036)	773	5	1.64	+	3.04	2.33E-02
+regulation of transcription by RNA polymerase II (GO:0006357)	1720	11	3.65	+	3.01	6.78E-04
+neurogenesis (GO:0022008)	944	6	2.01	+	2.99	1.41E-02
+cell projection organization (GO:0030030)	795	5	1.69	+	2.96	2.59E-02
+positive regulation of RNA biosynthetic process (GO:1902680)	1139	7	2.42	+	2.89	9.44E-03
+positive regulation of nucleic acid-templated transcription (GO:1903508)	1139	7	2.42	+	2.89	9.44E-03
+positive regulation of transcription, DNA-templated (GO:0045893)	1139	7	2.42	+	2.89	9.44E-03
+negative regulation of cellular biosynthetic process (GO:0031327)	989	6	2.10	+	2.86	1.73E-02
+negative regulation of biosynthetic process (GO:0009890)	1000	6	2.12	+	2.82	1.82E-02
+nervous system development (GO:0007399)	1359	8	2.89	+	2.77	6.97E-03
+positive regulation of RNA metabolic process (GO:0051254)	1203	7	2.56	+	2.74	1.25E-02
+positive regulation of macromolecule biosynthetic process (GO:0010557)	1279	7	2.72	+	2.58	1.71E-02
+cell development (GO:0048468)	1107	6	2.35	+	2.55	2.84E-02
+positive regulation of nucleobase-containing compound metabolic process (GO:0045935)	1311	7	2.79	+	2.51	1.93E-02
+positive regulation of cellular biosynthetic process (GO:0031328)	1322	7	2.81	+	2.49	2.01E-02
+regulation of cell population proliferation (GO:0042127)	947	5	2.01	+	2.49	4.92E-02
+negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	951	5	2.02	+	2.47	4.99E-02
+positive regulation of biosynthetic process (GO:0009891)	1338	7	2.84	+	2.46	2.13E-02
+positive regulation of gene expression (GO:0010628)	1557	8	3.31	+	2.42	1.52E-02
+regulation of transcription, DNA-templated (GO:0006355)	2354	12	5.00	+	2.40	2.67E-03
+regulation of RNA biosynthetic process (GO:2001141)	2355	12	5.00	+	2.40	2.68E-03
+regulation of nucleic acid-templated transcription (GO:1903506)	2355	12	5.00	+	2.40	2.68E-03
+anatomical structure development (GO:0048856)	3158	16	6.71	+	2.38	3.84E-04
+system development (GO:0048731)	2589	13	5.50	+	2.36	1.90E-03
+developmental process (GO:0032502)	3413	17	7.25	+	2.34	2.76E-04
+multicellular organism development (GO:0007275)	2849	14	6.05	+	2.31	1.46E-03
+negative regulation of gene expression (GO:0010629)	1221	6	2.59	+	2.31	4.27E-02
+regulation of cellular macromolecule biosynthetic process (GO:2000112)	2683	13	5.70	+	2.28	2.63E-03
+regulation of macromolecule biosynthetic process (GO:0010556)	2694	13	5.72	+	2.27	2.73E-03
+regulation of RNA metabolic process (GO:0051252)	2552	12	5.42	+	2.21	8.04E-03
+regulation of cellular biosynthetic process (GO:0031326)	2778	13	5.90	+	2.20	5.19E-03
+anatomical structure morphogenesis (GO:0009653)	1499	7	3.18	+	2.20	3.67E-02
+cell differentiation (GO:0030154)	2155	10	4.58	+	2.18	2.01E-02
+regulation of gene expression (GO:0010468)	3233	15	6.87	+	2.18	2.15E-03
+regulation of biosynthetic process (GO:0009889)	2812	13	5.97	+	2.18	5.47E-03
+cellular developmental process (GO:0048869)	2197	10	4.67	+	2.14	2.11E-02
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	2720	12	5.78	+	2.08	1.06E-02
+positive regulation of nitrogen compound metabolic process (GO:0051173)	2082	9	4.42	+	2.03	3.67E-02
+multicellular organismal process (GO:0032501)	3864	16	8.21	+	1.95	4.70E-03
+negative regulation of cellular process (GO:0048523)	3152	13	6.70	+	1.94	1.63E-02
+negative regulation of biological process (GO:0048519)	3426	14	7.28	+	1.92	1.13E-02
+positive regulation of cellular metabolic process (GO:0031325)	2204	9	4.68	+	1.92	4.50E-02
+regulation of nitrogen compound metabolic process (GO:0051171)	3938	16	8.37	+	1.91	5.32E-03
+regulation of primary metabolic process (GO:0080090)	4035	16	8.57	+	1.87	9.92E-03
+regulation of macromolecule metabolic process (GO:0060255)	4312	17	9.16	+	1.86	6.60E-03
+regulation of cellular metabolic process (GO:0031323)	4204	16	8.93	+	1.79	1.15E-02
+regulation of metabolic process (GO:0019222)	4657	17	9.89	+	1.72	1.46E-02
+regulation of cellular process (GO:0050794)	7977	25	16.95	+	1.48	1.32E-02
+regulation of biological process (GO:0050789)	8341	26	17.72	+	1.47	8.60E-03
+biological regulation (GO:0065007)	9009	27	19.14	+	1.41	1.39E-02
+biological_process (GO:0008150)	14533	37	30.87	+	1.20	5.99E-03
+Unclassified (UNCLASSIFIED)	3354	1	7.13	-	.14	5.99E-03
