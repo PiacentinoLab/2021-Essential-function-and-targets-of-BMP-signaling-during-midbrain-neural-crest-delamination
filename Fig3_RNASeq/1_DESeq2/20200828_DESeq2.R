@@ -1,7 +1,7 @@
 # DESeq2 Analysis
 
 # Update following input parameters and variables, then subsequent code blocks are soft-coded to read from these values
-countdata <- read.table("../Inputs/20200828_dnBMPR1A_vs_Ctrl_featureCounts.txt", header=TRUE, row.names=1)
+countdata <- read.table("../0_sourcedata//20200828_dnBMPR1A_vs_Ctrl_featureCounts.txt", header=TRUE, row.names=1)
 analysis_name <- 'dnBMPR1A_vs_Ctrl'
 pop1_name <- 'Ctrl'
 pop1_reps <- 2
@@ -12,7 +12,7 @@ pop2_reps <- 2
 countdata <- as.matrix(countdata)
 head(countdata)
 
-# Assign condition (first 2 are positive--second 2 are negative)
+# Assign condition (first 2 are control--second 2 are BMP-inhibited)
 (condition <- factor(c(rep(pop1_name, pop1_reps), rep(pop2_name, pop2_reps))))
 
 # Start DESeq2
@@ -105,5 +105,5 @@ names(resdata)[1] <- "Gene id"
 head(resdata)
 
 ## Write results
-write.csv(resdata, file=paste(analysis_name, 'DESeq2_results.csv', sep = "_", collapse = NULL))
+write.csv(resdata, file=paste(analysis_name, 'DESeq2_results_raw.csv', sep = "_", collapse = NULL))
 
