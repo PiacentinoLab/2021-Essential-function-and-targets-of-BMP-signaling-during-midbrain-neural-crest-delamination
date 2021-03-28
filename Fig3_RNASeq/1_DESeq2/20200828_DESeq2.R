@@ -37,9 +37,6 @@ head(assay(rld))
 hist(assay(rld))
 
 # Colors for plots below
-## Ugly:
-## (mycols <- 1:length(unique(condition)))
-## Use RColorBrewer, better
 library(RColorBrewer)
 (mycols <- brewer.pal(3, "Purples")[1:length(unique(condition))])
 
@@ -56,9 +53,6 @@ heatmap.2(as.matrix(sampleDists), key=F, trace="none",
 dev.off()
 
 # Principal components analysis
-## Could do with built-in DESeq2 function:
-## DESeq2::plotPCA(rld, intgroup="condition")
-## I like mine better: (From Megan Martik)
 rld_pca <- function (rld, intgroup = "condition", ntop = 500, colors=NULL, legendpos="bottomleft", main="PCA Biplot", textcx=1, ...) {
   require(genefilter)
   require(calibrate)
@@ -81,9 +75,6 @@ rld_pca <- function (rld, intgroup = "condition", ntop = 500, colors=NULL, legen
   plot(PC2~PC1, data=as.data.frame(pca$x), bg=colors[fac], pch=21, xlab=pc1lab, ylab=pc2lab, main=main, ...)
   with(as.data.frame(pca$x), textxy(PC1, PC2, labs=rownames(as.data.frame(pca$x)), cex=textcx))
   legend(legendpos, legend=levels(fac), col=colors, pch=20)
-  #     rldyplot(PC2 ~ PC1, groups = fac, data = as.data.frame(pca$rld),
-  #            pch = 16, cerld = 2, aspect = "iso", col = colours, main = draw.key(key = list(rect = list(col = colours),
-  #                                                                                         terldt = list(levels(fac)), rep = FALSE)))
 }
 png(paste(analysis_name, 'pca.png', sep = "_", collapse = NULL), 1000, 1000, pointsize=20)
 rld_pca(rld, colors=mycols, intgroup="condition", xlim=c(-200, 200), ylim=c(-200, 200))
