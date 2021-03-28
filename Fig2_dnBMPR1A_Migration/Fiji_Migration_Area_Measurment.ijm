@@ -1,7 +1,6 @@
 //learn file name, prepare file and Fiji for analysis
 name=File.nameWithoutExtension;
 rename("A");
-//run("Z Project...", "projection=[Max Intensity]");
 
 //Close unnecessary windows from last analysis
 if (isOpen("Results")) { 

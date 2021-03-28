@@ -27,8 +27,7 @@ run("Magenta");
 waitForUser("Rotate image until horizontal or vertical, then press ok");
 
 //Add scale bar to define AP length for measurement
-run("Scale Bar...", "width=300 height=8 font=28 color=White background=None location=[Lower Right] bold overlay");
-
+run("Scale Bar...", "width=400 height=8 font=28 color=White background=None location=[Lower Right] bold overlay");
 
 //Close unnecessary windows from last analysis
 if (isOpen("Results")) { 
@@ -83,18 +82,11 @@ run("Measure");
 roiManager("Select", 2);
 run("Measure");
 roiManager("Select", 1);
-run("Measure");
-
-//close();
 
 //Save out ROIs
-//waitForUser("Choose a directory to save ROIs, then press ok");
-//dir = getDirectory("Choose a directory to save ROI sets.");
 roiManager("Save", roi_dir+name+".zip");
 
 //Save out Measurements as csv
-//waitForUser("Choose a directory to save measurements, then press ok");
-//dir = getDirectory("Choose a directory to save measurement results.");
 saveAs("Results", csv_dir+name+".csv");
 
 //Close image windows

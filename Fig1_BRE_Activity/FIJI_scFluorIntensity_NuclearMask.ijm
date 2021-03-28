@@ -1,4 +1,4 @@
-// Define channel to measure and what it represents
+// Define channel to mask
 ch_mask = 1
 roi_dir = getDirectory("home")+"Desktop//rois//"
 csv_dir = getDirectory("home")+"Desktop//csvs//"
@@ -41,8 +41,6 @@ run("Out [-]");
 run("Median...", "radius=2");
 setOption("ScaleConversions", true);
 run("8-bit");
-//run("Auto Local Threshold", "method=Phansalkar radius=15 parameter_1=0 parameter_2=0 white");
-//run("Auto Local Threshold", "method=Phansalkar radius=5 parameter_1=0 parameter_2=0 white");
 run("Auto Threshold", "method=MaxEntropy white");
 run("Watershed");
 run("Analyze Particles...", "size=15-Infinity show=Masks");
@@ -87,7 +85,6 @@ if (isOpen("ROI Manager")) {
 // Measurements in the premigratory NC cells
 selectWindow("A-slice");
 Stack.setChannel(1);
-//run("Enhance Contrast", "saturated=0.01");
 waitForUser("Draw Premigratory NC ROI, then press ok");
 roiManager("Add");
 selectWindow("Pax7_Mask");
@@ -121,7 +118,6 @@ if (isOpen("ROI Manager")) {
 // Measurements in the migratory NC cells
 selectWindow("A-slice");
 Stack.setChannel(1);
-//run("Enhance Contrast", "saturated=0.01");
 waitForUser("Draw Migratory NC ROI, then press ok. If no mNC cells, don't draw and move along.");
 roiManager("Add");
 selectWindow("Pax7_Mask");
