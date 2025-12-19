@@ -1,5 +1,5 @@
 # 2021 Essential function and targets of BMP signaling during midbrain neural crest delamination
-Code and source data pertaining to Piacentino et al., 2021: Essential function and targets of BMP signaling during midbrain neural crest delamination
+Code and source data pertaining to Piacentino et al., 2021: Essential function and targets of BMP signaling during midbrain neural crest delamination. Developmental Biology. 477:251-261.
 
 Text available at:
 Developmental Biology: https://www.sciencedirect.com/science/article/pii/S0012160621001457?via%3Dihub
